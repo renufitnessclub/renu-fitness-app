@@ -1,0 +1,8 @@
+{
+  "short_name": "Renu Fitness",
+  "name": "Renu Fitness Club",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#7A4F2D",
+  "background_color": "#FBF7F2"
+}
